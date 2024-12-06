@@ -24,7 +24,7 @@
         font-size : 1.25rem;
     }
     p{
-        font-size : 1.15rem;
+        font-size : 0.9rem;
         font-weight: 400;        
     }
 }
@@ -51,6 +51,9 @@
     p{
         font-size : 1rem;   
         font-weight: 400;     
+    }
+    .startMovie{
+        height: 650px;
     }
 }
 @media ( max-width: 400px ) {

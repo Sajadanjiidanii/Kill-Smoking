@@ -80,5 +80,11 @@ img{
 .startMovie{
     display: grid;
     margin-top: 10px;
+    width: 100%;
+    height: 100%;
     justify-content: center;
+}
+.startMovie > img {
+    width: 100%;
+    height: 100%;
 }
